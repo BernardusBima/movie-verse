@@ -4,7 +4,7 @@ Selamat datang di MovieVerse, sebuah aplikasi web responsif yang dirancang untuk
 
 ![MovieVerse Screenshot](https://raw.githubusercontent.com/BernardusBima/movie-verse/main/images/Screenshot-Project.png)
 
-**🔗 Live Demo:** [Link ke GitHub Pages-mu akan ada di sini]
+**🔗 Live Demo:** [https://bernardusbima.github.io/movie-verse/]
 
 ---
 
